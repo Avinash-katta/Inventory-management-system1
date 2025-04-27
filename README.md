@@ -21,7 +21,7 @@ This is a free lancing project where I made a dynamic website for managing inven
 - Sales Analysis
 - Stock Analysis
 - Generation of Bill in printable format
-- Passport Authentication ([Tutorial Link](https://www.youtube.com/watch?v=-RCnNyD0L-s))
+- Passport Authentication 
 
   
 ## Tech Stack
